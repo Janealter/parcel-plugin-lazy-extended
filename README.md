@@ -1,9 +1,9 @@
-# 📦 parcel-plugin-lazy
+# 📦 parcel-plugin-lazy-extended
 
-Adds `data-srcset` and `data-src` to the list of all attributes that may produce a dependency.
+Adds `data-srcset`, `data-src` and `data-background-image` to the list of all attributes that may produce a dependency.
 
 ## Install
 
 ```bash
-npm install parcel-plugin-lazy -D
+npm install parcel-plugin-lazy-extended -D
 ```    
